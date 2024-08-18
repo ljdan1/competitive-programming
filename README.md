@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ljdan1/Competitive-programming/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -23,5 +24,10 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ljdan1/Competitive-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

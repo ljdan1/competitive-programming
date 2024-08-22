@@ -13,11 +13,13 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ljdan1/Competitive-programming/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ljdan1/Competitive-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ljdan1/Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |

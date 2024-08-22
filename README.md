@@ -37,17 +37,20 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -59,4 +62,12 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

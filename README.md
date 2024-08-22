@@ -14,6 +14,7 @@
 | [0020-valid-parentheses](https://github.com/ljdan1/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ljdan1/Competitive-programming/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ljdan1/Competitive-programming/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/ljdan1/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ljdan1/Competitive-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1894-merge-strings-alternately](https://github.com/ljdan1/Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ljdan1/Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/ljdan1/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
@@ -33,6 +35,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ljdan1/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/ljdan1/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ljdan1/Competitive-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ljdan1/Competitive-programming/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/ljdan1/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/ljdan1/Competitive-programming/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |

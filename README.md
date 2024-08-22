@@ -15,6 +15,7 @@
 | [0344-reverse-string](https://github.com/ljdan1/Competitive-programming/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ljdan1/Competitive-programming/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ljdan1/Competitive-programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/ljdan1/Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -50,4 +51,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ljdan1/Competitive-programming/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/ljdan1/Competitive-programming/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->

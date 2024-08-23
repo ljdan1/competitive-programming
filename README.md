@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ljdan1/Competitive-programming/tree/master/2442-number-of-arithmetic-triplets) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ljdan1/Competitive-programming/tree/master/2442-number-of-arithmetic-triplets) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -80,6 +83,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
 |  |
 | ------- |

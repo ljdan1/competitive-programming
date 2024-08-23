@@ -1,4 +1,4 @@
-# competitive-programming-
+# competitive-programming
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math

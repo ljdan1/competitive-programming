@@ -42,6 +42,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/ljdan1/Competitive-programming/tree/master/2442-number-of-arithmetic-triplets) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

@@ -51,6 +51,7 @@
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ljdan1/Competitive-programming/tree/master/2442-number-of-arithmetic-triplets) |
+| [2714-left-and-right-sum-differences](https://github.com/ljdan1/Competitive-programming/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/ljdan1/Competitive-programming/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/ljdan1/Competitive-programming/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |

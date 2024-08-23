@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ljdan1/Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ljdan1/Competitive-programming/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ljdan1/Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ljdan1/Competitive-programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ljdan1/Competitive-programming/tree/master/0344-reverse-string) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ljdan1/Competitive-programming/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

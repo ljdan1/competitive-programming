@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ljdan1/Competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
+| [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ljdan1/Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
@@ -86,6 +89,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
 |  |
@@ -99,4 +103,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->

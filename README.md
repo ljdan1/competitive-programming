@@ -42,6 +42,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/ljdan1/Competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/ljdan1/Competitive-programming/tree/master/0682-baseball-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ljdan1/Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ljdan1/Competitive-programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ljdan1/Competitive-programming/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/ljdan1/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/ljdan1/Competitive-programming/tree/master/1894-merge-strings-alternately) |

@@ -43,6 +43,7 @@
 | [0011-container-with-most-water](https://github.com/ljdan1/Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ljdan1/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ljdan1/Competitive-programming/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ljdan1/Competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ljdan1/Competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0594-longest-harmonious-subsequence](https://github.com/ljdan1/Competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
@@ -106,6 +107,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ljdan1/Competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ljdan1/Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/ljdan1/Competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ljdan1/Competitive-programming/tree/master/2714-left-and-right-sum-differences) |

@@ -19,6 +19,7 @@
 | [1894-merge-strings-alternately](https://github.com/ljdan1/Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ljdan1/Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/ljdan1/Competitive-programming/tree/master/2427-first-letter-to-appear-twice) |
+| [3379-score-of-a-string](https://github.com/ljdan1/Competitive-programming/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
